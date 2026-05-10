@@ -1,9 +1,0 @@
-/home/giopiro/coding/qt-projecy/build/Desktop-Debug/CMakeFiles/qt-projecy.dir
-/home/giopiro/coding/qt-projecy/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/giopiro/coding/qt-projecy/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/giopiro/coding/qt-projecy/build/Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/giopiro/coding/qt-projecy/build/Desktop-Debug/CMakeFiles/install.dir
-/home/giopiro/coding/qt-projecy/build/Desktop-Debug/CMakeFiles/install/local.dir
-/home/giopiro/coding/qt-projecy/build/Desktop-Debug/CMakeFiles/install/strip.dir
-/home/giopiro/coding/qt-projecy/build/Desktop-Debug/CMakeFiles/qt-projecy_autogen_timestamp_deps.dir
-/home/giopiro/coding/qt-projecy/build/Desktop-Debug/CMakeFiles/qt-projecy_autogen.dir
