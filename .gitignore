@@ -72,3 +72,23 @@ CMakeLists.txt.user*
 *.dll
 *.exe
 
+# Cartelle di build
+build*/
+debug/
+release/
+
+# File specifici dell'utente (impostazioni locali di Qt Creator)
+*.user
+*.user.*
+
+# File autogenerati da Qt (MOC, UI, RCC)
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Makefile*
+*.o
+*.obj
+
+# File di sistema
+.DS_Store
+Thumbs.db
